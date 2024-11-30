@@ -95,7 +95,7 @@ En estos ejemplos se han usado los siguentes modelos
 - Modelo grande, probado en GTX 3060 TI (en cpu genera tiempos de espera muy largos)
   - [jondurbin/airoboros-gpt-3.5-turbo-100k-7b](https://huggingface.co/jondurbin/airoboros-gpt-3.5-turbo-100k-7b) 
 
-De estos 3 modelos obviamente el que genera mejores resultados es `jondurbin/airoboros-gpt-3.5-turbo-100k-7b` pero necesitaremos tener una gráfica potente, en caso de no disponer de una, ``Qwen/Qwen2.5-1.5B-Instruct`` puede ser una buena opción, quizás usando prompt en ingés daría incluso mejores resultados.
+De estos 3 modelos el que genera mejores resultados es `jondurbin/airoboros-gpt-3.5-turbo-100k-7b` pero necesitaremos tener una gráfica potente, en caso de no disponer de una, ``Qwen/Qwen2.5-1.5B-Instruct`` puede ser una buena opción, quizás usando prompt en inglés daría incluso mejores resultados.
 
 #### Historias generadas por `EleutherAI/gpt-neo-1.3B`
 ##### Parámetros
