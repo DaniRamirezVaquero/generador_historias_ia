@@ -61,16 +61,16 @@ python3 history-generator.py
 
 Primero se nos solicitará una serie de información para desarrollar la historia junto a los parámetros `max_tokens` y `temperature` para controlar la langitud de la historia y la creatividad a la hora de la generación.
 
-![alt text](image.png)
+![alt text](./imgs/image.png)
 
 Lo siguente será selecciónar un modelos de nuestra lista de modelos, lo haremos indicando el número del modelos que queremos y este se cargará-.
 > La lista de modelos se extrae de la api de text-generation web-ui, por lo que se nos mostrara los modelos que tengamos descargados en la carpeta models
 
-![alt text](image-1.png)
+![alt text](./imgs/image-1.png)
 
 A continuación empezará a generarse la historia, una vez generada se nos mostrará por consola.
 
-![alt text](image-2.png)
+![alt text](./imgs/image-2.png)
 
 Y por último se nos mostrará un menú de con las siguentes opciones
 1. **Regenerar historia:** Volverá a generar la historia con los mismos datos, parámetros y modelo.
@@ -79,7 +79,7 @@ Y por último se nos mostrará un menú de con las siguentes opciones
 4. **Crear nueva historia:** Se nos volverá a solicitar todos los datos, parámetros y que modelos queremos usar para generar una nueva historia.
 5. **Salir:** Termina la ejecución del programa
 
-![alt text](image-4.png)
+![alt text](./imgs/image-4.png)
 
 #### Notas
 
